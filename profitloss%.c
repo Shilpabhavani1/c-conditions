@@ -8,7 +8,7 @@ void main()
 	{
 		printf("profit\n");
 		printf("profit amount is :%d\n",s-c);
-		printf("profit percentage is:%d",(s-c)+c/100);	
+		printf("profit percentage is:%d",(s-c)*c/100);	
 	}
 	else
 	{
